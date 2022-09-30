@@ -25,6 +25,7 @@ Other content is not visible in A+.
 .. toctree::
   :maxdepth: 2
 
+  m01_introduction/index
   overview/index
   set_up_environment/index
   rst_guide/index
